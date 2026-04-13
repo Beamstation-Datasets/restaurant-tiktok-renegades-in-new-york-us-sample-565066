@@ -1,0 +1,12 @@
+{
+  "export_job_id": "f23464a2-85a1-4a57-9127-66e19950976c",
+  "id_short": 565066,
+  "published_at": "2026-04-13T19:23:53Z",
+  "repo_name": "restaurant-tiktok-renegades-in-new-york-us-sample-565066",
+  "sample_asset_name": "beamstation_565066_restaurants-us-ny_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/565066/beamstation_565066_restaurants-us-ny_SAMPLE_DIST.csv",
+  "sample_records": 35,
+  "sample_sha256": "65f43baa0274b8ad465267f3275906725e6bfa979538ff41c72636ebd5aac904",
+  "sample_size_bytes": 154232,
+  "total_records": 359
+}
