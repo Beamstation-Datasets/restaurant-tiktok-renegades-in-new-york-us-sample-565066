@@ -1,6 +1,6 @@
 # Restaurant TikTok Renegades in New York, US
 
-> Free BeamStation sample export with 43 rows and masked direct-contact fields.
+> Free BeamStation sample export with 42 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `565066` |
 | Location | New York |
 | Category | Restaurants |
-| Full dataset size | 432 records |
-| Free sample size | 43 records (9.95%) |
-| Last export | 2026-04-22T16:25:43.664373+00:00 |
+| Full dataset size | 428 records |
+| Free sample size | 42 records (9.81%) |
+| Last export | 2026-04-29T16:30:36.906111+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/restaurant-tiktok-renegades-in-new-york-us-sample-565066/releases/download/sample-latest/beamstation_565066_restaurants-us-ny_SAMPLE_DIST.csv) |
 
 ## What is in this sample
